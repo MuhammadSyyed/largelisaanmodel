@@ -43,9 +43,6 @@ if __name__ == "__main__":
 
         client = OllamaClient()
 
-        # chat_response = await client.chat("Hello, why sky appears blue?")
-        # print("Chat Response:", chat_response)
-
         embed_response = await client.embed("queen")
         print("Embedding Response:", embed_response)
 
