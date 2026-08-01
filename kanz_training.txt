@@ -1,0 +1,22 @@
+Kanz combined OCR training dataset report
+========================================
+Original pairs: 1150
+New raw lines: 3791
+New unique lines added: 3504
+Duplicates skipped: 287
+Final combined pairs: 4654
+Usable Unicode mappings: 111
+
+Per-document:
+- Document from Juzer Jeddah (1).docx: 1560 lines, 1147 changed by mappings
+- Document from Juzer Jeddah (2).docx: 1164 lines, 855 changed by mappings
+- Document from Juzer Jeddah (3).docx: 1067 lines, 651 changed by mappings
+
+Top mappings:
+'سس' -> 'ے': 3288
+'ثث' -> 'پ': 1439
+'كك' -> 'گ': 1013
+'طط' -> 'ں': 654
+'حح' -> 'چ': 498
+'لله' -> 'الله': 445
+'ضض' -> 'ٹ': 170
