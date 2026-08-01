@@ -1,0 +1,40 @@
+Source DOCX: Document from Juzer Jeddah.docx
+Mapping JSON: kanz_mappings.json
+Usable normalized mappings: 611
+Training lines created: 1150
+Lines changed by mappings: 1060
+
+File format for kanz_training_pairs.txt:
+render_text<TAB>unicode_label
+
+Most frequently applied mappings:
+'سس' -> 'ے': 1310
+'ثث' -> 'پ': 662
+'نا' -> 'uni06460627.isol': 650
+'كه' -> 'uni06430647.liga.init.fina': 563
+'كك' -> 'گ': 451
+'ته' -> 'uni062A06BE.liga.init.medi': 271
+'طط' -> 'ں': 231
+'هي' -> 'uni0647064A.liga.medi.fina': 221
+'حح' -> 'چ': 209
+'تا' -> 'uni062A0627.isol': 179
+'جه' -> 'uni062C06BE.liga.init.medi': 158
+'كلا' -> 'uni064306440627.isol': 115
+'حه' -> 'uni062D06BE.liga.init.medi': 109
+'به' -> 'uni062806BE.liga.init.medi': 100
+'با' -> 'uni06280627.isol': 85
+'ثا' -> 'uni062B0627.isol': 83
+'لله' -> 'الله': 75
+'نه' -> 'uni064606BE.liga.init.medi': 73
+'هم' -> 'uni06470645.liga.medi.fina': 68
+'ضض' -> 'ٹ': 61
+'جي' -> 'uni062C064A.liga.init.fina': 61
+'ظي' -> 'uni0638064A.liga.init.fina': 48
+'عي' -> 'uni0639064A.liga.init.fina': 48
+'حي' -> 'uni062D064A.liga.init.fina': 38
+'تما' -> 'uni062A06450627.fina': 34
+'قي' -> 'uni0642064A.liga.medi.fina': 31
+'نما' -> 'uni064606450627.fina': 29
+'سم' -> 'uni06330645.liga.medi.fina': 27
+'في' -> 'uni0641064A.liga.medi.fina': 25
+'شم' -> 'uni06340645.liga.medi.fina': 24
