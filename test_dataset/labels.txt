@@ -1,0 +1,5 @@
+test_dataset/images/sample_000001_v01.png	خطاب
+test_dataset/images/sample_000002_v01.png	مؤمنين ني جماعة!
+test_dataset/images/sample_000003_v01.png	اے االله سبحاuni064606BE.liga.init.medi uni06460627.isol كuni062A0627.isolب كريم uni06430647.liga.init.fina uni062C06BE.liga.init.medi كuni062A0627.isolب ني شان ما خدا تعالى فرماوے ؛
+test_dataset/images/sample_000004_v01.png	uni06430647.liga.init.fina :
+test_dataset/images/sample_000005_v01.png	لايمسّه الا المطهّرون
