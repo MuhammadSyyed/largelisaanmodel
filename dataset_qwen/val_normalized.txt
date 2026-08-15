@@ -1,0 +1,465 @@
+dataset/images/val_000001_v01.png	پنچوانو ؛
+dataset/images/val_000002_v01.png	جان انے خيال پاك چهے تو يه كفاية چهے،
+dataset/images/val_000003_v01.png	اْجے - امامين اقدسين نے بلايا،
+dataset/images/val_000004_v01.png	كه جه ني بلندي نو سوں پوچهوو،
+dataset/images/val_000005_v01.png	اْ ذكر سنيئے ؛
+dataset/images/val_000006_v01.png	والوجه طوله من حد الشعر من الجبهة الى الذقن ،
+dataset/images/val_000007_v01.png	عربي زبان ما مزملة ني سوں معنى كه كوئي چيز نے اهوي لپٹے كه يه دهنكائي جائي،
+dataset/images/val_000008_v01.png	انے اهنا سي اهنو اخلاص هميشه زيادة تهاتو رهے ؛
+dataset/images/val_000009_v01.png	تو اْذكر سي ايم واضح تهائي ؛
+dataset/images/val_000010_v01.png	قطيعة نه كرے،
+dataset/images/val_000011_v01.png	يه مثل پوتانا شيعة محبين نے چني ليےس،
+dataset/images/val_000012_v01.png	خصوصا اْج نا دن ما ماري دعاء ني بركة تمام مؤمنين مؤمنات طرف پنچاؤجے،
+dataset/images/val_000013_v01.png	رإيته في عرض الناس مثل الحمل الاورق يهد الناس بسفيه هذا ما يقوم له أحد ،
+dataset/images/val_000014_v01.png	اْ مشكوة الانور نو تيار تهاؤو اْ ية يه واسطے ؛
+dataset/images/val_000015_v01.png	اْ تو كوئي كرة هوئي انے خدا همنے پاچها والے تو هوے هميں اهوو كام نيں كريئے،
+dataset/images/val_000016_v01.png	كه جه مولى يه پچاس سال لگ مؤمنين ني گهنا ناز و نعم سي تربية كيدي،
+dataset/images/val_000017_v01.png	أے وضوء نے جيم كروي جوئيے ايم كري نے خدا سي گناهو ني مغفرة طلب كرنار لوگو!
+dataset/images/val_000018_v01.png	كوناساتهے ؟
+dataset/images/val_000019_v01.png	نية ني بلندي مؤمنين اختيار كرے،
+dataset/images/val_000020_v01.png	اْ ايك پاني نو شيشه ؛
+dataset/images/val_000021_v01.png	ديكهو احد نا دن سوں تهائي ؛
+dataset/images/val_000022_v01.png	اْپنا نا دلهن فاطمة ؛
+dataset/images/val_000023_v01.png	اْج محرم الحرام ني تيسري تاريخ ؛
+dataset/images/val_000024_v01.png	انے اْ دنو ما ايم دعاء كرتا} رهجو كه خدا تعالى اپنا مولى مفضل سيف الدين اْقا ني عمر شريف نے قيامة نا دن لگ
+dataset/images/val_000025_v01.png	الجنة ؛
+dataset/images/val_000026_v01.png	اهما جمارواما گهنو ثواب ؛
+dataset/images/val_000027_v01.png	چلتا چلتا سكينة ياد اْؤتا هےس!
+dataset/images/val_000028_v01.png	اسباغ الوضوء ني معنى ايم نيں كه وضوء كرنار گهنو پاني ريرا كرے،
+dataset/images/val_000029_v01.png	اْج تمنے مملوك اْل محمد كھوں چھوں كه،
+dataset/images/val_000030_v01.png	هميشه اهنو قوت سه نا سي نكالے ؟
+dataset/images/val_000031_v01.png	ويپار ما،
+dataset/images/val_000032_v01.png	گويا اْ مشكوة چمكے ؛
+dataset/images/val_000033_v01.png	انے سيئات بهي اْ مثل جمع تهائي ؛،
+dataset/images/val_000034_v01.png	اْ رسول االله نا كاندها نا سوار!
+dataset/images/val_000035_v01.png	ته برابر ؛
+dataset/images/val_000036_v01.png	اكثر اْ لفظ ادب ما – literature ما استعمال تهائي ؛
+dataset/images/val_000037_v01.png	هوے اْ مثل ني خبر سيدنا نے پنچے ؛
+dataset/images/val_000038_v01.png	اْج فاطمة نا ذكر ني مجلس وه مالا ني ذكر كيم نه كريئے كه جه نا سبب گهنا لوگو نے گهني سلائي سي رزق ملي
+dataset/images/val_000039_v01.png	تمے اتنا گلدٌا چهو تمارا پاس پانچسو اوقية كهاں سي آوي ؟
+dataset/images/val_000040_v01.png	فاطمة جه وقت كه تشريف لاؤےس ايك لاكهـ فرشته فاطمة نے پوتاني پانكهـ پر اُتهاؤتا هےس،
+dataset/images/val_000041_v01.png	اْپ سوں كسو
+dataset/images/val_000042_v01.png	- أے مارا ماں جايا بهائي حسين!
+dataset/images/val_000043_v01.png	اْپ زمانه ؤ لگ حسين نو غم كرتا} رهےس انے ايم} بنو يه كئي طرح كه اْپنا منصوص نا سبب كه جه انا نا صاحب ؛
+dataset/images/val_000044_v01.png	ته وقت وه سقاء عذر كرے ؛
+dataset/images/val_000045_v01.png	بيوے مقام اْ مثل روئي رهيا ؛
+dataset/images/val_000046_v01.png	أے عزادارو!
+dataset/images/val_000047_v01.png	االله و أدوا الأمانة إلى الأسود و الأبيض و إن كان حروريا و إن كان شاميا و إن كان أمويا
+dataset/images/val_000048_v01.png	يا أعرابي هذا حبل االله اعتصم به,
+dataset/images/val_000049_v01.png	بعض مجالس ما تميں سنو ؛
+dataset/images/val_000050_v01.png	كه هميں كانٹاؤ بستر پر سوئيے ؛،
+dataset/images/val_000051_v01.png	خدا اْوا مولى نا زمان ما اپني ولادة تهاوو انے اْوا شان نا داعي،
+dataset/images/val_000052_v01.png	اْ چار چيز انسان نا حيوة ما سگلا كرتا اهم ؛
+dataset/images/val_000053_v01.png	ستر العيب - سدهاروو
+dataset/images/val_000054_v01.png	فلما رآه حمزة مقبلا اليه قال :
+dataset/images/val_000055_v01.png	اهنا در پر اْوے ؛،
+dataset/images/val_000056_v01.png	٨٠٠ ورس بعد فاطمي داعي فاطميين نا مصر ما پدهارا انے وهاں عجب شانات دكهاوي حتى كه أيك مصر نا شاعر اْپنے
+dataset/images/val_000057_v01.png	رسول االله يه اْ سگلا نا بهوكا نے جمارٌا،
+dataset/images/val_000058_v01.png	كه جه مولى يه كربلاء ما وه شان سي عمل كيدو كه اهنا سبب ايمان ني كهيتي ،
+dataset/images/val_000059_v01.png	جه حجاج نے هشمه كري نے جمارتا،
+dataset/images/val_000060_v01.png	اْ اْية سورة اْل عمران ما ١٠١ مي اْية ؛
+dataset/images/val_000061_v01.png	(فحوى) تو أے برادرو!
+dataset/images/val_000062_v01.png	ياں بهي سگلا يه چيزو نو برابر دهيان راكهتا} هےس انے راكهے} ؛
+dataset/images/val_000063_v01.png	كه هماري قدر اْج نا دن ما سوں ؛،
+dataset/images/val_000064_v01.png	تو مولاي اْدم نے ايم بهي نه تهيو كه بيجو كاغذ تو ديكهوں كه اهما سوں ؛،
+dataset/images/val_000065_v01.png	فضربه بالسيف فكأنما أخطى رأسه و وقف عليه و قد خر ميتا و هو لا يراني ،
+dataset/images/val_000066_v01.png	٤ مشكوة الانور
+dataset/images/val_000067_v01.png	اے پروردگار !
+dataset/images/val_000068_v01.png	وان خاللها باصابعه حتى يصل الماء الى داخلها فحسن ،
+dataset/images/val_000069_v01.png	كاں هتا انے اْجے كاں ؛!
+dataset/images/val_000070_v01.png	"باكر غدائك ان لقمته تقو* م كما اتى للجسم كالمسمار"
+dataset/images/val_000071_v01.png	تمنے اْپيس،
+dataset/images/val_000072_v01.png	وفعلوا حتى اذا صار الى موضعه وضعه رسول االله صلع مكانه ،
+dataset/images/val_000073_v01.png	لِلْمُشْرِكِينَ الَّذِينَ لا يُؤْتُونَ الزَّكاةَ قال جابر كأني و االله ما قرأتها و إنها لفي كتاب االله عز و جل
+dataset/images/val_000074_v01.png	انے جه اپنا ما سي هر أيك نا پاےس ؛
+dataset/images/val_000075_v01.png	اخرة نو رزق،
+dataset/images/val_000076_v01.png	اهنا ساتهے اْ مثل هاتهـ دهوتا وقت اپن سوں دعاء كريئے ؛
+dataset/images/val_000077_v01.png	دنيا ما تمام جگه تميں جئي نے ديكهو تو اهنا مقابل نظر نهيں اْوے.
+dataset/images/val_000078_v01.png	حام،
+dataset/images/val_000079_v01.png	عجب شان سي سگلا نے كے ؛
+dataset/images/val_000080_v01.png	انے ته سوى مؤمنين نے بهي ،
+dataset/images/val_000081_v01.png	تخلف كرے تو غرق تهائي." ١٤٠٤ -كراچي
+dataset/images/val_000082_v01.png	تاكه لوگو بركة لے،جه يه جموا بلايا تها يه صاحب يه اهما سي تناول كيدو،
+dataset/images/val_000083_v01.png	سگلا دعوة نا حدود نے جمع كيدا،
+dataset/images/val_000084_v01.png	كه منے كتنيك عرض كروي ؛
+dataset/images/val_000085_v01.png	ته خاطر شريعة يه قانون سوں كيدو كه "اليقين لا يزوله الشك" يعني سوں كه جاں لگ تمنے يقين ؛
+dataset/images/val_000086_v01.png	صراط مستقيم - تباعة
+dataset/images/val_000087_v01.png	زلل سوں
+dataset/images/val_000088_v01.png	مگر تميں جه كو چهو كه جاز دوبي جاےس ته هرگـز دوبنار نتهي،
+dataset/images/val_000089_v01.png	مؤمنين واسطے بيٹهك ما پدهارے ؛،
+dataset/images/val_000090_v01.png	انے خدا تعالى قران مجيد ما فرماوے ؛
+dataset/images/val_000091_v01.png	دعوة نا دشمنو هميشھ انتظار ما رهے چهے كھ كيوارے فتنة كرے،
+dataset/images/val_000092_v01.png	جو يه نه هوئي تو كوئي چيز پر ثابت رهي} نه سكائي،
+dataset/images/val_000093_v01.png	كه اْپنا منصوص يه شان ني بعض ذكرو كريئے،
+dataset/images/val_000094_v01.png	يه بيوے چيزو الگ بهي ؛
+dataset/images/val_000095_v01.png	كه نه نه ،اجل تو اْوي رسول االله يه فرمايو ؛
+dataset/images/val_000096_v01.png	كه جه نو إحساس بهي اپنے نتهي،
+dataset/images/val_000097_v01.png	رسول االله نا كاندٌها نا سوار حسن حسين پر خدا صلوات انے سلام پرٌهجو،
+dataset/images/val_000098_v01.png	عبد الوهاب باسناده عن عمر بن الخطاب أنه قال :
+dataset/images/val_000099_v01.png	و هي التي عند رأسه :
+dataset/images/val_000100_v01.png	فقال أبو بكر أ سخطة هي فقلت لا إلا أنه نزل عليه أن لا يبلغ عنه إلا رجل منه فلما قدمنا مكة و كان يوم النحر بعد
+dataset/images/val_000101_v01.png	اْپ ٣ صاحبو يه ٨ ورس لگ اكيلا نماز پرٌهي،
+dataset/images/val_000102_v01.png	انے اهنا اوپر سي قيامة نا دن چلوانو رهےس انے جه يه رسته پار كرے اهنے جنة ما پنچوو تهاےس انے جه
+dataset/images/val_000103_v01.png	انے بيسرا امام – كه جه مولى اْج نا دن ما عجب شان سي خدا نا دين ني حماية كيدي انے تمام عالم واسطے قيامة نا
+dataset/images/val_000104_v01.png	انے اهنا دعاة بهي ايجمثل عمل كرے ؛،"
+dataset/images/val_000105_v01.png	كه منے قتل كري ناكهے ،
+dataset/images/val_000106_v01.png	قال لي علي ع م :
+dataset/images/val_000107_v01.png	فخرجت أنا وأخي عبد االله بن غالب ،
+dataset/images/val_000108_v01.png	يه اهوا دعاة ؛
+dataset/images/val_000109_v01.png	عشرة ني مجالس ما حاضر تهائي
+dataset/images/val_000110_v01.png	اْج نا زمان ما اكثر باهر نا لوگو نو عمل گهنو جدو تهئي گيو ؛
+dataset/images/val_000111_v01.png	يه مولى ني محبة انے طاعة سي اپنے فائزين ؛،
+dataset/images/val_000112_v01.png	قول االله ع ج :
+dataset/images/val_000113_v01.png	كربلاء نا عامل نے حكم لكهي ديدو كه هوے سي كوئي نا پاس سي يه مثل جرمانه نه لے ،
+dataset/images/val_000114_v01.png	يه سگلا ني نية پاچهي سدهري جائي اهنا واسطے تدبير اْخَر سوں كيدي كه هند نا لوگو نو امتحان ليدو انے يه
+dataset/images/val_000115_v01.png	رسول االله نے پوتانا غلامو بانديو نو اتنو ناز انے فخر چھے،
+dataset/images/val_000116_v01.png	چهپاوو هر ميثاق اْپنار مؤمن مؤمنة پر واجب ؛،
+dataset/images/val_000117_v01.png	كه قران ما اْ اْية سورة القيامة ما ؛
+dataset/images/val_000118_v01.png	نماز ني كتني پابندي كرے ؛
+dataset/images/val_000119_v01.png	طالب ص ع إذ وقف عليهم أعرابي فقال :
+dataset/images/val_000120_v01.png	اْ سوں وات كرو چهو ؟
+dataset/images/val_000121_v01.png	اْپنا گهر ما خيانة نتهي كيدي ،
+dataset/images/val_000122_v01.png	كوئي دهاكواني وات يا شرم ني وات نتھي،
+dataset/images/val_000123_v01.png	وكان رسول االله صلع يومئد غلام قد نشأ على الطهارة واخلاق الانبياء ،
+dataset/images/val_000124_v01.png	حدود نے موكلا،
+dataset/images/val_000125_v01.png	وه حال ما كه حسين عليه الصلوة والسلام كه جه رسول االله نا كاندها نا سوار ؛
+dataset/images/val_000126_v01.png	جان انے جسم ني حالة بهي بتر تهائي اهني طرف بُلاوے چهے،
+dataset/images/val_000127_v01.png	تو فاطمة سي پنجتن جورٌائي ؛
+dataset/images/val_000128_v01.png	تميں سگلا ويپاري چهو - فرماوے ؛
+dataset/images/val_000129_v01.png	وافقهم من قراء العامة
+dataset/images/val_000130_v01.png	گلا ما باندهو ،
+dataset/images/val_000131_v01.png	عمل
+dataset/images/val_000132_v01.png	بهائي،
+dataset/images/val_000133_v01.png	فاستترت بشجرة أو قال :
+dataset/images/val_000134_v01.png	ته خاطر،
+dataset/images/val_000135_v01.png	اْ برهان الدين مولى باونما داعي خوش تهائي،
+dataset/images/val_000136_v01.png	المجلس السادس- ١٤١١هـ
+dataset/images/val_000137_v01.png	فاطمة نے ،
+dataset/images/val_000138_v01.png	صوم،
+dataset/images/val_000139_v01.png	المعجزات التي ظهرت اثناء الترميم
+dataset/images/val_000140_v01.png	اْپ نا شزاده،
+dataset/images/val_000141_v01.png	اْج حسين ني دعاء ("االلهم انت ثقتي" ني دعاء ني غرض ؛) تارا بنده حقير يھ حسين نا مأتم ني مجلس ما پرٌهي،
+dataset/images/val_000142_v01.png	هر زمان نامولى اْپنا زمان نا لوگو واسطے واسطے أيك طبيب ؛
+dataset/images/val_000143_v01.png	اهنا بعد بيسرو دعامة كيو كه طهارة يعني پاكيزگي،
+dataset/images/val_000144_v01.png	جه مثل اْقا مولى حسين پر اپنا تهورٌا اْنسوں انے ماتم نے گهنو كرے ؛،
+dataset/images/val_000145_v01.png	اے رسول خدا اْمارا ماں انے مارا باوا سي اْپ پر فداء انے قربان ،خدا نا قسم ميں تو غني تهئي گيو اْفاطمة
+dataset/images/val_000146_v01.png	بعض وقت خيال ما سوں اْوي جائي؟
+dataset/images/val_000147_v01.png	يه واضح تهئي} جائي ؛.
+dataset/images/val_000148_v01.png	ايك نيچا ايك اونچا ايم خدا يه كيدا چهے.
+dataset/images/val_000149_v01.png	و تقف التي هي أحسنهن عند رأسه .
+dataset/images/val_000150_v01.png	اْ باقر امام فرماوے ؛
+dataset/images/val_000151_v01.png	االله پوتانا بيوے وسطاريلا هاتهـ سي جيم چاهے تيم خرچ كرے ؛،
+dataset/images/val_000152_v01.png	اثناء الترميم مولانا المنعامط ع يه فرمايو كه "مجاز نا ٹهمباؤ ماربل نا بنے" مگر مهندس حسن فتحى جه
+dataset/images/val_000153_v01.png	فاطمة نا كان ما اْواز اْيو،
+dataset/images/val_000154_v01.png	ديكهو وه اعرابي نا ساتهے سوں تهيو
+dataset/images/val_000155_v01.png	كه خدا نا گهر ما بندگي كروا نے ميں اْؤں چهوں،
+dataset/images/val_000156_v01.png	باونما داعي مولانا محمد برهان الدين اْقا ني محبة ؛
+dataset/images/val_000157_v01.png	يه حسين امام ني ذكر خود صراط مستقيم ؛
+dataset/images/val_000158_v01.png	همنا ذكرتهئي كه خدا تعالى جيم عمل كرو تيم جزاء اْپے ؛،
+dataset/images/val_000159_v01.png	انے اپنا عمل قبول تهاوانا سبب اهني قدر انے قيمة ؛
+dataset/images/val_000160_v01.png	كھ:
+dataset/images/val_000161_v01.png	مردو ما يھ چيز نتهي،
+dataset/images/val_000162_v01.png	اخلاص،
+dataset/images/val_000163_v01.png	انے مرد يه جه كام كيدو ؛
+dataset/images/val_000164_v01.png	اْ تمام چيزو كراوي نے اْپ يه اپنے سگلا نے صراط مستقيم پر ثابت قدم باقي راكها،
+dataset/images/val_000165_v01.png	بهوك انے پياس نا سبب تهاكي گيا چهو؟
+dataset/images/val_000166_v01.png	پوري كروا ما اْوي – اْ تمام قطعات لوحة نا} ؛
+dataset/images/val_000167_v01.png	كه اهما انسان پوتاني حالة كوئي نے كي بهي نتهي سكتو كيم كه اهني يه فقر نا سبب لوگو ما فضيحة تهئي سكے ؛
+dataset/images/val_000168_v01.png	كه سوں سوں حالات ماري امة نے درپيش اْؤےس،
+dataset/images/val_000169_v01.png	كتنا تو پانچ منٹ ما سپاره تمام كري دے ؛،
+dataset/images/val_000170_v01.png	تمام غيب نے اْپنا واسطے ظاهر كري ديدو،
+dataset/images/val_000171_v01.png	ارے اْ مصيبة پر تو رسول االله قبر ما روئي ؛!
+dataset/images/val_000172_v01.png	و عاد إلينا .
+dataset/images/val_000173_v01.png	معاف كري ديےس اْ ايك هوے
+dataset/images/val_000174_v01.png	منے كئي اْورتو بهي نتهي،
+dataset/images/val_000175_v01.png	خوبي هوئے،
+dataset/images/val_000176_v01.png	"موج بعد موج" انے سفينة چلي رهيو ؛،
+dataset/images/val_000177_v01.png	انے اپن سگلا حق پر ؛
+dataset/images/val_000178_v01.png	امام احمد المستور يه مجرى ما ذكر فرماوے ؛:
+dataset/images/val_000179_v01.png	٢١ ما امام مولانا الامام الطيب پر خدا تع صلوات انے سلام نا اعلى انے افضل نے وه تضاعيف نا ساتهے پرهجو كه
+dataset/images/val_000180_v01.png	رسول االله نا كاندها نا سوار حسين،
+dataset/images/val_000181_v01.png	.ميں تمنے بتاؤ چهوں كيا گهر سي تماري حاجة روائي تهاےس تميں اهوا صاحب ني منزل ني طرف جاؤ كه يحب االله
+dataset/images/val_000182_v01.png	عاشوراء نا دن – اْج نا دن حسين امام كربلاء ما شهادة اختيار كيدي تو اهنا سبب سي اسلام ني بقاء ؛
+dataset/images/val_000183_v01.png	ں ،كپرا نتهي مارا پاےس انے منے اْپ مدد كرو ته وقت مولا تنا فاطمة مولا نا علي انے اهل بيت ٣ دن سي جما
+dataset/images/val_000184_v01.png	اثناء الترميم جه معاجز انے اْيات ظاهر تهئي يه اْ اشتياق طرف دلالة ؛،
+dataset/images/val_000185_v01.png	اْپ نا شزاده زين العابدين باقي ؛،
+dataset/images/val_000186_v01.png	امير المؤمنين تشريف لايا ،
+dataset/images/val_000187_v01.png	هوے كوئي جسم برابر راكهے،
+dataset/images/val_000188_v01.png	اْ سگلا اْپ انے اْ چار صاحبو نے،
+dataset/images/val_000189_v01.png	ته وقت سوں دعاء كريئے ؛
+dataset/images/val_000190_v01.png	تو باواجي صاحب مولانا طاهر سيف الدين نا زمان ما،
+dataset/images/val_000191_v01.png	تو اسلام دين االله چهے.
+dataset/images/val_000192_v01.png	حسين امام نے دشمنو يه شيد كيدا،
+dataset/images/val_000193_v01.png	كه "اْثار جيوا ملے اهوا} رهوا دو" ايم نهيں كه اهني حالة اصلية طرف والو،
+dataset/images/val_000194_v01.png	الحد العلامة احمد علي حميد الدين ذكر كرے ؛
+dataset/images/val_000195_v01.png	بلكه اْ نمك همارا نصيب ما تهو،انے اْچاول جه نمك سي اْميز تهيا يه تو همارا واسطے مبارك فال ؛،
+dataset/images/val_000196_v01.png	كيدو انے ٣٨١هـ ما اهما پهلي نماز پرهاوي ته بعد امام حاكمص ع يه اهني بناء ني تكميل نو عمل ٣٩٣هـ ما شروع
+dataset/images/val_000197_v01.png	ما أقدمكم هذا البلد في حج و لا عمرة ؟
+dataset/images/val_000198_v01.png	قال أبو عبد االله فنزلت فيمن أشرك بولاية أمير المؤمنين ص و أعطى زكاته من نصب نفسه دونه
+dataset/images/val_000199_v01.png	ته واسطے اْ دعوة ني گادي تمارا يهاں سي نقل تهئي جاےس انے هندستان نا مؤمنين ما اخلاص گهنو ؛
+dataset/images/val_000200_v01.png	كه دشمنو يه اهنا پر سوں سوں مظالم كيدا ؛
+dataset/images/val_000201_v01.png	ميں تمنے معاف كروں چهوں،
+dataset/images/val_000202_v01.png	نعمة ؛،
+dataset/images/val_000203_v01.png	كه أئمة نا اْثار – اْپني مملكة ني نشانيو هجي بهي باقي} ؛،
+dataset/images/val_000204_v01.png	كوئي اْوانے تيار نتهي،
+dataset/images/val_000205_v01.png	فاطمة ني محبة،
+dataset/images/val_000206_v01.png	عجب مولاتنا فاطمة ني شان ؛
+dataset/images/val_000207_v01.png	يھ دعاء ني حرمة سي هر مؤمن ني هر مشكل اْسان كرجے،
+dataset/images/val_000208_v01.png	ته وقت اْ ذكر تهائي ؛،
+dataset/images/val_000209_v01.png	انے مكان كتنو بدلايو؟
+dataset/images/val_000210_v01.png	نية ما بلندي اختيار كرو،
+dataset/images/val_000211_v01.png	كه جه نے پارٌو بهي نه اُٹهاوي سكے!
+dataset/images/val_000212_v01.png	اهنا ساتهے ميكائيل ؛،
+dataset/images/val_000213_v01.png	فاقتنفوهم ومضوا في ضيق حتى اتي به الى عتيق
+dataset/images/val_000214_v01.png	غسل ما بهي سگلا اْوي نه سكے،
+dataset/images/val_000215_v01.png	نية هميشه بلند هوئي كيم كه نية بلند هےس تو بلندي لگ پنچوو گهنو سل تهئي جاےس انے اپنے تو جنة ما
+dataset/images/val_000216_v01.png	رسو ل االله نو منبر محراب چهيني ليدو،
+dataset/images/val_000217_v01.png	قيامة نو دن تهاےس،
+dataset/images/val_000218_v01.png	خرچي نے فداء تهئي جائي ؛
+dataset/images/val_000219_v01.png	طلقاء ني جماعة لئي نے ثاني اْيو ،علي نا گهر پر ،
+dataset/images/val_000220_v01.png	تو خدا فرماوے ؛
+dataset/images/val_000221_v01.png	پچهي اهنے ايم كوائي كھ سيدنا ا يم كے ؛
+dataset/images/val_000222_v01.png	كه جه نا سبب تميں سگلا پاك تهاؤ چهو،
+dataset/images/val_000223_v01.png	ته بعد اْپ وضوء ني باريكيو انے اْ حكم ني – پگ پر مسح كرواني باريكيو ذكر فرماوے ؛
+dataset/images/val_000224_v01.png	كھ اْپ جانو چهو اے رسول االله ياں جنگل اهوو ؛
+dataset/images/val_000225_v01.png	پياسا نے سيراب كيدا تو اهنو بدلو اْ اْپو كه اْپ نا فرزندو نے ريگستان ني سخت گرمي ما پاني واسطے
+dataset/images/val_000226_v01.png	مسجد نا واجهة ما سي اْ قبة نے هتاوي نے هو بهو مولى يه ايك مقبر ةبناوي اْپو اتني حد لگ كه اينٹ پر نمبر
+dataset/images/val_000227_v01.png	اْ خدا طرف سي توفيق انے تسديدني نعمة چھے...
+dataset/images/val_000228_v01.png	تاكه تمنے چهراوي نے چرٌهاوي لے،
+dataset/images/val_000229_v01.png	شيعة ني شفاعة كرے يه مولاة نا غم ما چكچور لوگو اپن سگلا ؛،
+dataset/images/val_000230_v01.png	و هاني بن عروة ،
+dataset/images/val_000231_v01.png	أے عزادارو اْج جانو چهو سوں تهيو ارے سوں تهيو كه حسين نا گهورٌا چلتا چلتا روكي گيا كاں روكا كه اْه
+dataset/images/val_000232_v01.png	امام نا غم ما قصائد لكهتا رهيا اهما سي أيك عظيم قصيدة كيو كه:
+dataset/images/val_000233_v01.png	خدا تعالى اپنے اْ مولى نا فرمان اُٹهاواما ياري اْپجو،
+dataset/images/val_000234_v01.png	حسن واسطے،
+dataset/images/val_000235_v01.png	تو اْ بيان فرماوي نے اْپ واضح كري دے ؛
+dataset/images/val_000236_v01.png	وزر بن حبيش ( ١ ) ،
+dataset/images/val_000237_v01.png	انے اهنے لكهے ؛
+dataset/images/val_000238_v01.png	؛
+dataset/images/val_000239_v01.png	ته بعد اْ شكل نے لاكرٌا ما ،
+dataset/images/val_000240_v01.png	كوئي ني وات نه كرے،
+dataset/images/val_000241_v01.png	انے علي نے اْپ نا ماتها نا نزديك بيٹهايا،
+dataset/images/val_000242_v01.png	كون لاوے ؛
+dataset/images/val_000243_v01.png	تاكه فاطمة انے فاطمة نا شيعة محبون جنة نا دروازه پر پنچےس،
+dataset/images/val_000244_v01.png	ته وقت دعوة ني گادي يمن ما هتي،
+dataset/images/val_000245_v01.png	مزدوري كري نے ،
+dataset/images/val_000246_v01.png	سگلا مؤمنين سرٌك پر كهرٌا هتا،
+dataset/images/val_000247_v01.png	سگلا كرتا چهيلے اْپ بيٹها هوئي ؛
+dataset/images/val_000248_v01.png	احسر لثامك عن جبينك انني * اجد المعز ونوره المصقولا
+dataset/images/val_000249_v01.png	يه أئمة نا ساتهـ تهئي نے اْج حسين ني ذكر كرينے جنة خريدنار اپن سگلا ؛،
+dataset/images/val_000250_v01.png	اسامة گهنا نزديك تر تها،
+dataset/images/val_000251_v01.png	أَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ فبان أن المسح إنما هو ببعضها لمكان الباء من قوله بِرُؤُسِكُمْ كما قال االله عز
+dataset/images/val_000252_v01.png	يه مولى ني طول بقاء اپنا واسطے سگلا اميدو نو پورو تهاوو ؛،
+dataset/images/val_000253_v01.png	انے اگر معرفة نه هوئي تو كام تهائي} نيں." (المجلس الأول - ه١٤٣٤هـ)
+dataset/images/val_000254_v01.png	انے مؤتمين امام امامة نا پرهنار لوگو ني بهول نے اهٌاوي لے چهے .
+dataset/images/val_000255_v01.png	ونكهيرا،انے فرمايو كھ جھ موتي زيادة لاوے يھ زيادة!
+dataset/images/val_000256_v01.png	يعني مفاتيح الكعبة و قال العباس بن عبد المطلب أعطاني رسول االله ص و على أهل بيته السقاية و هي زمزم قالا و لم
+dataset/images/val_000257_v01.png	فصل القضاء نو دن،
+dataset/images/val_000258_v01.png	قبلة سامنے كري دئيے ،
+dataset/images/val_000259_v01.png	طوبى نا شجرة طرف وحي تهيو،
+dataset/images/val_000260_v01.png	اتنو دعوى كه ايم سمجهے كه داعي كرتا همنے ودهارے اْؤرے،
+dataset/images/val_000261_v01.png	خدا يه تمنے اْپو ؛
+dataset/images/val_000262_v01.png	تو بهلا مارا قبله گاه رسول االله نا گردن ما تميں رسو باندهو چهو ؟
+dataset/images/val_000263_v01.png	انے جمن بهي اهوي شاكلة سي اْپے ؛
+dataset/images/val_000264_v01.png	انے كتاب الطهارة ما ايم ذكر اْوي كه:
+dataset/images/val_000265_v01.png	اْج عاشوراء نا دن قبل الظهر وضوء نا كيا عمل پر ذكرو كريئے كه جه اْخري عمل ؛
+dataset/images/val_000266_v01.png	تو عجب اْ اعرابي ني دل ني صفاء هتي – چوكهائي هتي كه يه رسول االله نا در پر اْيا كه جه رسول االله شريعة لئي نے
+dataset/images/val_000267_v01.png	اهنا گام ما} اهنے رزق ملي جائي،
+dataset/images/val_000268_v01.png	انے تمنے سگلا نے فساد كرناراؤ نا رسته نه چلاؤجو!
+dataset/images/val_000269_v01.png	الي أين أمضي يا رسول االله ؟
+dataset/images/val_000270_v01.png	فاستأذنا عليه ،
+dataset/images/val_000271_v01.png	اْپني كوششو نا سبب پهلو انے پهولو سي مكے دعوة نو بستان ؛،
+dataset/images/val_000272_v01.png	عبد االله ووليه ابو علي المنصور الامام الحاكم بامر االله امير المؤمنين صلوات االله عليه وعلى اْبائه الطاهرين في
+dataset/images/val_000273_v01.png	عبد االله ني شهادة
+dataset/images/val_000274_v01.png	بيعة اْپو چهو كه نيں ؟
+dataset/images/val_000275_v01.png	اے :
+dataset/images/val_000276_v01.png	كه :
+dataset/images/val_000277_v01.png	تهائي،
+dataset/images/val_000278_v01.png	بيوے شزادة - تارے اميرالمؤمنين فرماوے ؛
+dataset/images/val_000279_v01.png	اْكتاب سوں ؛
+dataset/images/val_000280_v01.png	سفينة چلتو رهيو،
+dataset/images/val_000281_v01.png	كه همين ترميم كريئے.
+dataset/images/val_000282_v01.png	سگلا نے جمارا،
+dataset/images/val_000283_v01.png	جاؤ،
+dataset/images/val_000284_v01.png	كه اے بي بي صاحبة !
+dataset/images/val_000285_v01.png	هوے وه والي الهند مولاي اْدم نے مثال شريف پهنچا كه ته} وقت وه كاغذ نے ماتها پر موكا.
+dataset/images/val_000286_v01.png	خدا نا رسول،
+dataset/images/val_000287_v01.png	اْپني قبر يمن ما ؛.
+dataset/images/val_000288_v01.png	تميں جلدي كيم اْوي گيا ؟
+dataset/images/val_000289_v01.png	منے عطاء كيدي!!
+dataset/images/val_000290_v01.png	گهر ما سي سگلا چلا جائي،
+dataset/images/val_000291_v01.png	خدا تعالى تمنے خوش و خرم راكهجو،
+dataset/images/val_000292_v01.png	دلو جان نے پاك كرينے ولي االله ني طاعة ،
+dataset/images/val_000293_v01.png	الدم ما كان مصرا على ذلك و إن أقر باالله و وحده و صدق رسوله بلسانه إلا أنه يقول هذه الفريضة ليست مما جاء به و
+dataset/images/val_000294_v01.png	ماتها سي پاؤں لگ گناهو نا دريا ما دٌوبا هوا ؛
+dataset/images/val_000295_v01.png	اْ مسجد ما سي غلاظة صاف كري نے اهما امام حسين ني ذكر ني كستوري لگاوي جه نا سبب رسول االله صلع انے اْپنا
+dataset/images/val_000296_v01.png	أيك شهيد تو بے هاتهـ كپاوينے فداء تهئي گيا ،
+dataset/images/val_000297_v01.png	يأمرنا بسد أبوابنا و يدع باب علي فبلغ ذلك رسول االله ص فقال قد بلغني ما قلتم في سد الأبواب و االله ما أنا فعلت
+dataset/images/val_000298_v01.png	رواية ما ؛
+dataset/images/val_000299_v01.png	ايجمثل ستر نا زمان ما جه سگلا دعاة مطلقين تهيا يه سگلا پر خدا تع صلوات انے سلام پرهجو،٥٢ ما داعي سيدنا
+dataset/images/val_000300_v01.png	بلكه اْورن نا سبب تهائي ؛،
+dataset/images/val_000301_v01.png	فجر نووقت خاص نشاط نو وقت ؛،
+dataset/images/val_000302_v01.png	يه لئي اْوے ته سي بركات بركات بركات،
+dataset/images/val_000303_v01.png	گهنا غصّة ما گرمي ما كيو،
+dataset/images/val_000304_v01.png	المجلس الثامن -١٤٣٤ هـ
+dataset/images/val_000305_v01.png	تو اْپنا پاےس اْيا انے جه دل ني وات هتي يه ادب انے رسول االله ني حضر ني حرمة جانتا هوا كيدي تو رسول االله
+dataset/images/val_000306_v01.png	٥٣ ما داعي سيدنا ومولانا عالي قدر مفضل سيف الدين اْقا پر صلوات انے سلام پرهجو !
+dataset/images/val_000307_v01.png	عقيدة
+dataset/images/val_000308_v01.png	روحانية سي تعلق راكهے ؛
+dataset/images/val_000309_v01.png	اْ وات سي كه جهوٹ بناوٹ كرنار االله ما تعطيل انے تشبـيـه ني واتو كرے ؛،
+dataset/images/val_000310_v01.png	المجلس الرابع- ١٤٢٣هـ
+dataset/images/val_000311_v01.png	كه هر رسول االله صلع انے اْپنا بعد هر زمان نا مولى،
+dataset/images/val_000312_v01.png	هر ناهني ما ناهني حسنة نو عمل كرواني ياري اْپجو،
+dataset/images/val_000313_v01.png	والناس حولك يضحكون سرورا
+dataset/images/val_000314_v01.png	بئيرو باورچي نھ سمجهے يھ تو پكاؤناري بيئر ؛،
+dataset/images/val_000315_v01.png	تيم برابر دارٌهي نے راكهوي،
+dataset/images/val_000316_v01.png	يه شريعة مؤمنين نے اْ عالم سي گهنا} جلدي انے گهنا} اْساني سي چرٌهاؤےس انے چُهرٌاؤےس – كيم كه يه شريعة
+dataset/images/val_000317_v01.png	و قول الجماعة أن الإيمان قول و عمل بغير اعتقاد نية محال لأنهم قد أجمعوا على أن رجلا لو أمسك عن الطعام و الشراب
+dataset/images/val_000318_v01.png	سيدنا ادريس وها} تشريف راكهتا هتا انے ته وقت مجلس ما حدود كرام،
+dataset/images/val_000319_v01.png	....اعرابي نے رسول االله فرماوے چھے:
+dataset/images/val_000320_v01.png	اهنا كام پر پرٌےس}،
+dataset/images/val_000321_v01.png	تو گهر ما تو اْپنا نونال حسن حسين بهي ؛
+dataset/images/val_000322_v01.png	ستير ٧٠ پرده ني ذكر
+dataset/images/val_000323_v01.png	اْ لعين كے ؛
+dataset/images/val_000324_v01.png	يه} مثل قيامة نا دن اپنا عملو نو قبول كيم تهاےس كه محبة نو أيك هےس تو}،
+dataset/images/val_000325_v01.png	بيسري سوں كه دوري انے تيسري كئي كه تهليا ني – بيج ني،
+dataset/images/val_000326_v01.png	مشهد گهنو عظيم ،
+dataset/images/val_000327_v01.png	تو تمام اعمال عمل ني جمع وابسته چهے -كونا سي كه امام جه نے قائم كرے اهنا سي .
+dataset/images/val_000328_v01.png	اے اعرابي اْ مالا كتنا ما ويچو چهو اعرابي كهے ؛
+dataset/images/val_000329_v01.png	زيارة كرے گويا علي ني زيارة كيدي انے جه حسن حسين نا فرزندو ني زيارة كرےس تو گويا حسن حسين ني زيارة كيدي
+dataset/images/val_000330_v01.png	ته اْ ماري قبر ما موكجو ،
+dataset/images/val_000331_v01.png	كپرٌا بهي يه مثل پناوے چهے،
+dataset/images/val_000332_v01.png	يه نعمة نا سبب اْج دعوة اْباد اْباد ؛،
+dataset/images/val_000333_v01.png	لا يَهْدِي الْقَوْمَ الظَّالِمِينَ الَّذِينَ آمَنُوا وَ هاجَرُوا وَ جاهَدُوا فِي سَبِيلِ اللَّهِ
+dataset/images/val_000334_v01.png	تيج وقت عمار بن ياسر كهرا تهيا عرض كيدي كه رسول االله صلع اْپ منے رزا اْپئيے ميں مالا خريدي لؤ ،
+dataset/images/val_000335_v01.png	فيقول لا حسنهن صورة ،
+dataset/images/val_000336_v01.png	اْ بيماري ما سگلا مبتلى ؛،
+dataset/images/val_000337_v01.png	تميں همارا ساتهـ تهئي جاؤ،
+dataset/images/val_000338_v01.png	اے مثل اهناواسطے بددعاء كرتا رهيا،
+dataset/images/val_000339_v01.png	كھ وهاں لاكرٌيو نتهي،
+dataset/images/val_000340_v01.png	جھ نا نزديك هماري ذكر تهائي،
+dataset/images/val_000341_v01.png	"لمن الملك اليوم"،
+dataset/images/val_000342_v01.png	نه نه مگر جيم فرمان اْيا تيم} كيدو،
+dataset/images/val_000343_v01.png	اْپ اهني أيك گهني ناياب مثل بيان كرينے سمجهاوے ؛
+dataset/images/val_000344_v01.png	تو اهوا goal انے mindset سي زندگي گذاروي جوئيے،
+dataset/images/val_000345_v01.png	چهے .
+dataset/images/val_000346_v01.png	مولاي اْدم تو والي الهند هتا اْپنا مقام ني تو شان نرالي} ؛
+dataset/images/val_000347_v01.png	حسن العمل – كتاب بيميني
+dataset/images/val_000348_v01.png	انے سيئات نے هلكي نھ كري لئيے كيم كھ اهنا دٌهگ نا دٌهگ نا تهئي جائي"
+dataset/images/val_000349_v01.png	علي دولا،
+dataset/images/val_000350_v01.png	يه داعي االله الأمين ؛،
+dataset/images/val_000351_v01.png	تو ظاهر ما اْمثل انے دل نا كانو ني وات تهائي تو اهما بهي يه} مثل حالة هوئي...
+dataset/images/val_000352_v01.png	يا رسول االله ،
+dataset/images/val_000353_v01.png	علم ني انهار جاري كيدي،
+dataset/images/val_000354_v01.png	فاطمة عليها السلام نے جه محبة كرے اهنا واسطے شفاعة ؛،
+dataset/images/val_000355_v01.png	انے اهنا سي مفضل سيف الدين اْقا نا دل نے خوش كيدو ؛،
+dataset/images/val_000356_v01.png	و مثل ما نزل في علي ع م لما تصدق و هو راكع و قد تقدم ذكره في قول االله ع ج :
+dataset/images/val_000357_v01.png	يه شريعة نو پلو دعامة ولاية ؛
+dataset/images/val_000358_v01.png	گيا،
+dataset/images/val_000359_v01.png	امير المؤمنين پوچهے ؛
+dataset/images/val_000360_v01.png	كه طهارة سوں كوائي،
+dataset/images/val_000361_v01.png	اْ مصيبة نو حق أداء نتهي كيدو!
+dataset/images/val_000362_v01.png	بسم االله الرحمن الرحيم ونريد ان نمن على الذين استضعفوا في الارض ونجعلهم ائمة ونجعلهم الوارثين مما امر بعمله
+dataset/images/val_000363_v01.png	چهوٹا،
+dataset/images/val_000364_v01.png	ثم قول المعرّي،
+dataset/images/val_000365_v01.png	لوگو ما چرچا پهيلائي گئي،
+dataset/images/val_000366_v01.png	حسن بهي برابر،
+dataset/images/val_000367_v01.png	١٤٢٠هـ
+dataset/images/val_000368_v01.png	"والعصر ان الانسان لفي خسر*"
+dataset/images/val_000369_v01.png	يه كيا كه ولاية،
+dataset/images/val_000370_v01.png	اْ وثيقة تاريخية ممكن ؛
+dataset/images/val_000371_v01.png	مولى پر فداء تهاتا رهيئے انے اْپني خوشي حاصل كرتا رهيئے،
+dataset/images/val_000372_v01.png	صلوات.
+dataset/images/val_000373_v01.png	تو خوشبو نے تو كتني سنبــهالوي جوئيے،
+dataset/images/val_000374_v01.png	نه رداء ؛
+dataset/images/val_000375_v01.png	أے نية نے بلند راكهينے بلندي ني طرف پنچنار لوگو!
+dataset/images/val_000376_v01.png	تو اْپ نا پاس موكلا ؛،
+dataset/images/val_000377_v01.png	انے اهنا غير نے گهنو پاني بهي كفاية نتهي تهاتو،
+dataset/images/val_000378_v01.png	تو كے ؛
+dataset/images/val_000379_v01.png	رب نوا يمان لاوے ؛
+dataset/images/val_000380_v01.png	اْ مثل نا لوگو پر بهي أولياء االله هميشه پرده كرتا} رهيا كيم كه يه سگلا ني طبيعة ما} ستر كروو ؛
+dataset/images/val_000381_v01.png	شرمائي نيں كيم كه يه حق ؛،
+dataset/images/val_000382_v01.png	اْ وات سي كه اهما اهنا كوئي هم مثل هوئي،
+dataset/images/val_000383_v01.png	"قل لا اسئلكم عليـه اجرا الا المؤدة في القربى*" فقيل:
+dataset/images/val_000384_v01.png	اعرابي انے وه انصاري مرد رسول االله نا نزديك اْيا.......اعرابي كهے چھے كھ مارا ما صبر ني طاقة نتھي،
+dataset/images/val_000385_v01.png	كھ پوتانا بئيرو نے ريحانة مثل راكهے،
+dataset/images/val_000386_v01.png	و ابناه الحسن و الحسين سبطا هذه الامة ،
+dataset/images/val_000387_v01.png	منے برابر ياد ؛
+dataset/images/val_000388_v01.png	كه جه چٹهي نے اْپنا باواجي صاحب يه لكهي هتي كه جه اهوو عمل هتو كه جه نا سبب اْ شهيد نے دولها بنوا نو شرف
+dataset/images/val_000389_v01.png	بال نو ،
+dataset/images/val_000390_v01.png	مسجد نا منبر انے محراب روئي ؛،
+dataset/images/val_000391_v01.png	كون حسين كه جه علي نا نور عين،
+dataset/images/val_000392_v01.png	وه شخص ني روزي نے كشاده كرجے جه اهنا بهائي ني روزي ما كشاده كري اْپے،
+dataset/images/val_000393_v01.png	دارٌهي برابر سلامة هوئي،
+dataset/images/val_000394_v01.png	تمارا دلو ما حزن ني اهوي اْگ بهرٌكاوے ؛
+dataset/images/val_000395_v01.png	گهورٌا پر سوار تهاوا چاهے ؛،
+dataset/images/val_000396_v01.png	حسانات ياد اْوے ؛،
+dataset/images/val_000397_v01.png	ته كري لؤں ،
+dataset/images/val_000398_v01.png	اْ چادر ما كون داخل تهئي سكے كه جه مارا تهكي هوئي،
+dataset/images/val_000399_v01.png	و كان منهما ص عما يومئذ ما لم يكن أحد قبلهما مثله حتى كشف االله ع ج المشركين و هزمهم بهما .
+dataset/images/val_000400_v01.png	فاطمة عجب شان سي وصية كرے ؛
+dataset/images/val_000401_v01.png	پچهي جو ايم پو؛
+dataset/images/val_000402_v01.png	خدا قران مجيد ما فرماوے؛:
+dataset/images/val_000403_v01.png	يه نزديك اْيو فاطمة نے انے فاطمة نا گال پر طمانچا مارا ،
+dataset/images/val_000404_v01.png	كتنا دوري اْپ كتني محنة انے تكليفو اُٹهاوينے مصر پنچے ؛
+dataset/images/val_000405_v01.png	كوا ما اْؤےس سوں كام تميں پهري نے ديكهو چهو؟
+dataset/images/val_000406_v01.png	انے ايم فرماوے ؛،
+dataset/images/val_000407_v01.png	كه اْپنے ديكهي نے} دل باغ باغ تهئي جائي ؛
+dataset/images/val_000408_v01.png	تو كوئي ايم پكارے ؛
+dataset/images/val_000409_v01.png	تو جو علم ليوا ما فرق هےس تو اهنا سبب سي تمام بيسري چيزو بهي ايم} تهئي جاےس،
+dataset/images/val_000410_v01.png	اعرابي چپ تھئي گيا،
+dataset/images/val_000411_v01.png	كه پانچ چيز نے سعادة كوائي،
+dataset/images/val_000412_v01.png	تو ميں ديكهوں چهوں كه گهنٹي پهروانو اْواز اْوي رهيو ؛،
+dataset/images/val_000413_v01.png	واجب الوجود،
+dataset/images/val_000414_v01.png	كه جه مولى دعاة ني شان ني معرفة كراؤتا هوا ايم فرماؤتا كه هميں ستر نا دعاة كئي بدر احد انے كربلاء نا شهداء
+dataset/images/val_000415_v01.png	اْ سگلا صاحبو نا پلا محمد رسول االله ؛
+dataset/images/val_000416_v01.png	كه جيوارے رسول االله نا فرمان نے سنا ته} وقت شتابي سي اٹهو،
+dataset/images/val_000417_v01.png	رسول االله صلع ني امة خاصة اپن سگلا ؛
+dataset/images/val_000418_v01.png	– يه اسلام نا دين پر فداء تهاوا ما ماتهاؤ بهي كٹاوي ديےس،
+dataset/images/val_000419_v01.png	منے اْپني كتنيك عرض كروي ؛
+dataset/images/val_000420_v01.png	نه چادر نو ٹكرو ؛،
+dataset/images/val_000421_v01.png	يعني علماء الظاهر ساتهے ملي جئيس،
+dataset/images/val_000422_v01.png	اپنا سگلا نا گناهو نے معاف كرجو،
+dataset/images/val_000423_v01.png	فاطمة ني بلاء پر خوب اْنسوؤ باوي ليجو،
+dataset/images/val_000424_v01.png	خدا تعالى قران مجيد ما فرماوے ؛
+dataset/images/val_000425_v01.png	و شهيدنا خير الشهداء و هو عم أبيك ،
+dataset/images/val_000426_v01.png	مرد نے پوتاني بئيرو نے برابر راكهے،
+dataset/images/val_000427_v01.png	كه رسول االله هر عمل نے شريعة نا قالب ما دٌهالي نے اْپني امة نے دنيا نا هر عمل نے اْخرة نا واسطے كرنار
+dataset/images/val_000428_v01.png	و تنازعوا ،
+dataset/images/val_000429_v01.png	انے خدمة نا قبولية ني اعلى دليل ؛
+dataset/images/val_000430_v01.png	انے پريشاني ما پريشاني ما پيچهے جاؤ چهوں تارے ميں اْ ديكهو كه باواجي صاحب كاندها پر مشكيزه لئي نے
+dataset/images/val_000431_v01.png	طهارة ني ذكر
+dataset/images/val_000432_v01.png	جعفر الصادق امام فرماوے ؛
+dataset/images/val_000433_v01.png	دارهي confidence سي راكهو،
+dataset/images/val_000434_v01.png	مولانا نو فرمان ؛
+dataset/images/val_000435_v01.png	تميں اْ سگلا پر ونكهيرو،
+dataset/images/val_000436_v01.png	خدا تعالى قران مجيد ما اْپني ذكر ما فرماوے ؛:
+dataset/images/val_000437_v01.png	انے همارا تهورٌا نے گهنو كري دے ؛،
+dataset/images/val_000438_v01.png	رسول االله يه فرمايو ؛
+dataset/images/val_000439_v01.png	ته وقت رسورا ما پدهارے انے ايك مشكيزه بناوي تهي مهوٹي ايك basket ني مثل اهما جمن بهري نے كاندها پر
+dataset/images/val_000440_v01.png	....اعرابي نے رسول االله پوچهے چھے،
+dataset/images/val_000441_v01.png	تو عورة ني معنى سوں – يه أيك جسم نا حصة ني مقدار ؛
+dataset/images/val_000442_v01.png	انے گنائي ؛،
+dataset/images/val_000443_v01.png	فبرز اليه علي ص ع - فبرز كل واحد منهم على صاحبه - فقتله علي ص ع .
+dataset/images/val_000444_v01.png	كھ جهاں سي اهنے سگلو ملي جائي،
+dataset/images/val_000445_v01.png	تو أے وضوء نے هميشه كامل كرواني كوشش كرنار لوگو!
+dataset/images/val_000446_v01.png	كه
+dataset/images/val_000447_v01.png	انے يه نو ستر كروو،
+dataset/images/val_000448_v01.png	كي نے ماتم كري لو ،
+dataset/images/val_000449_v01.png	يا شكر؟
+dataset/images/val_000450_v01.png	يه معنى ما أيك ذكر كريئے:
+dataset/images/val_000451_v01.png	تو اے برادرو!
+dataset/images/val_000452_v01.png	چهتري ؛
+dataset/images/val_000453_v01.png	تو مبارك هاتهـ ؛
+dataset/images/val_000454_v01.png	اْپنا سي ولگاهوا هر دم اهل دين ؛،
+dataset/images/val_000455_v01.png	اْ مثل ني جانفشاني كرنار حدود نا سبب اْج اپن صراط مستقيم پر ؛،
+dataset/images/val_000456_v01.png	كه اْ پاني ما تو شفاء ؛،
+dataset/images/val_000457_v01.png	اْج بهي ديكهو كه ادنى ما ادنى مسلمة بائي هوئي انے مسلمانو نو محلة هوئي انے ته ما مسلمة بائي نے كوئي طمانچا
+dataset/images/val_000458_v01.png	تو اْج اْ تمام سگلا انبياء حسين نو مأتم كروانے كربلاء اْيا ؛
+dataset/images/val_000459_v01.png	أے برادرو!
+dataset/images/val_000460_v01.png	مگر كوئي اهنے قتل نه كري سكو،
+dataset/images/val_000461_v01.png	ميں عائشة نا نزديك اْيو،
+dataset/images/val_000462_v01.png	مرسى اهنو لنگراواري خدا نا نام سي ؛،
+dataset/images/val_000463_v01.png	كے ؛
+dataset/images/val_000464_v01.png	سيدي لقمانجي بن حبيب االله ني ذكر – نمك
+dataset/images/val_000465_v01.png	كه خدا نا امر ما كوئي وقت بے فرماني نتهي كرتا،
